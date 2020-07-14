@@ -1,5 +1,3 @@
-
-
 /*
   Import the ip-cidr npm package.
   See https://www.npmjs.com/package/ip-cidr
@@ -77,4 +75,3 @@ function main() {
 /*
   Call main to run it.
 */
-main();
